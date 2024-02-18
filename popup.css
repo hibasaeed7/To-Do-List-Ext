@@ -1,0 +1,17 @@
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+#todo-container {
+  text-align: center;
+}
+
+#todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#new-todo {
+  margin-top: 10px;
+}
